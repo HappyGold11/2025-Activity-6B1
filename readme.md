@@ -1,0 +1,1 @@
+java swing gui that when you click on the button it disappears and reappear again in a random location
